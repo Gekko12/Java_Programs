@@ -1,0 +1,15 @@
+************************************************************************************************************************************************************************************************************************
+First create a dir.  and place the  .java file in this which contains all public class(not default) and all public methods
+Catch that dir. using terminal ( using cd command )
+javac _.java file to compile
+Need to move the dir. above using cmd  cd ..
+java Mypack.MainClass (if main class have )
+**************************************************************************************************************************************************************************************************************************
+To use the user defined package just type -
+                 import pkgname.classname ;
+And use the casual way to run and compile
+NOTE :-  All methods should be public as well as class in the package classes
+For eg.   import FirstPackage.Balance ;
+              and PackUse.java file (refer)
+*************************************************************************************************************************************************************************************************************************                               
+

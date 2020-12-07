@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+    <libraryInfo home="/opt/eclipse/jre" version="11.0.5"/>
+    <libraryInfo home="/usr/lib/jvm/jdk-14.0.1" version="14.0.1"/>
+    <libraryInfo home="/opt/eclipse" version="11.0.5"/>
+    <libraryInfo home="/usr/lib/jvm/java-11-openjdk-amd64" version="11.0.5"/>
+</libraryInfos>

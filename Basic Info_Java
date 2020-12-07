@@ -1,0 +1,22 @@
+1. Use "Sysout " + ctrl + space to print " System.out.println( ) ; "  in Eclipse.
+
+2. For "for-each loop" , iteration value be the next element in the collection .
+        Syntax :
+                         for(type itr_var : collection)
+                            stmt-block
+        Example :
+                            ary[ ] = { 1,5,4,2 }
+                             then for 1st itr. itr_val will be 1
+                                           2nd itr. itr_val will be 5
+                                           3rd itr. itr_val will be 4
+                                           .
+                                           .
+                                           and so on
+
+3. In JAVA by default class members are in Default access not in Public (Opp. to C++ ) .
+
+4. Using Terminal commands
+                 mousepad  main()_class_name.java
+                 javac main()_class_name.java            //To compile
+                 java main()_class_name
+                        
